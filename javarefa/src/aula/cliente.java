@@ -1,4 +1,4 @@
-package aula;,
+package aula;
 
 import aula.solid.Rectangle;
 import aula.solid.BasicPrinter;
